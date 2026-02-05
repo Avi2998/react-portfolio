@@ -1,11 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.507a3381.css",
-    "main.js": "/react-portfolio/static/js/main.39716058.js",
+    "main.css": "/react-portfolio/static/css/main.9909b49e.css",
+    "main.js": "/react-portfolio/static/js/main.7715e903.js",
+    "static/media/Aveon.png": "/react-portfolio/static/media/Aveon.21e131cc4f864a9eca21.png",
+    "static/media/baja_cae.png": "/react-portfolio/static/media/baja_cae.a3e00107594946635dda.png",
+    "static/media/baja_vd.png": "/react-portfolio/static/media/baja_vd.38622b67cf28ffa3bdcc.png",
+    "static/media/Agentic_AI.png": "/react-portfolio/static/media/Agentic_AI.1a2af849197233bb6766.png",
+    "static/media/woven_thermal.png": "/react-portfolio/static/media/woven_thermal.e26eb085770e1e6cbb89.png",
+    "static/media/Thar.png": "/react-portfolio/static/media/Thar.30511de97e21d7889c4b.png",
+    "static/media/ann_training_results.png": "/react-portfolio/static/media/ann_training_results.6ac98a2dbffcb3f21c7b.png",
+    "static/media/modal_windblade.png": "/react-portfolio/static/media/modal_windblade.1d49942b0a8aecbfdc83.png",
+    "static/media/compositesai.png": "/react-portfolio/static/media/compositesai.c3942ec25f553ced778c.png",
+    "static/media/mahindra_brakes.png": "/react-portfolio/static/media/mahindra_brakes.448e2014102c4688ec4a.png",
+    "static/media/two_step_homogenization.png": "/react-portfolio/static/media/two_step_homogenization.6c3954906dc3cbe5cbf5.png",
+    "static/media/Headshot.png": "/react-portfolio/static/media/Headshot.444f876a1e238606b025.png",
+    "static/media/Deflection_windblade.png": "/react-portfolio/static/media/Deflection_windblade.21b8ca326234df5f76db.png",
+    "static/media/curved_beam.png": "/react-portfolio/static/media/curved_beam.68e59b3f948f8d33ce5a.png",
+    "static/media/blade_model.png": "/react-portfolio/static/media/blade_model.5c2a7e4386b5179fedcb.png",
+    "static/media/mahindra_esc.png": "/react-portfolio/static/media/mahindra_esc.a3446b04bf1498dab681.png",
     "index.html": "/react-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.507a3381.css",
-    "static/js/main.39716058.js"
+    "static/css/main.9909b49e.css",
+    "static/js/main.7715e903.js"
   ]
 }
