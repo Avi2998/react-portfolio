@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9909b49e.css",
-    "main.js": "/react-portfolio/static/js/main.7715e903.js",
+    "main.js": "/react-portfolio/static/js/main.ab779e12.js",
     "static/media/Aveon.png": "/react-portfolio/static/media/Aveon.21e131cc4f864a9eca21.png",
     "static/media/baja_cae.png": "/react-portfolio/static/media/baja_cae.a3e00107594946635dda.png",
     "static/media/baja_vd.png": "/react-portfolio/static/media/baja_vd.38622b67cf28ffa3bdcc.png",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.9909b49e.css",
-    "static/js/main.7715e903.js"
+    "static/js/main.ab779e12.js"
   ]
 }
